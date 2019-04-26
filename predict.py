@@ -1,3 +1,0 @@
-"""
-This module to predict.
-"""
