@@ -1,0 +1,1 @@
+python train.py --embeddings baidubaike --embedding_size 300 --batch_size 520 --num_epochs 100
